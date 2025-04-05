@@ -1,0 +1,3 @@
+mainFull:main
+subFull:sub
+otherFull:other
